@@ -22,11 +22,13 @@ public class Main {
 
     public static void main(String[] args) {
         Employee employee1=new Employee("Miguel",30,"CEO", 500000);
+        Employee employee2= new Employee("Maria", 22,"intern",8400);
+        
 
     }
 
 
         }
 
-    
+
 
