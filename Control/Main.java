@@ -22,8 +22,16 @@ public class Main {
 
     public static void main(String[] args) {
         Employee employee1=new Employee("Miguel",30,"CEO", 500000);
-        Employee employee2= new Employee("Maria", 22,"intern",8400);
-        
+        Employee employee2= new Employee("Maria", 22,"intern",7200);
+        Employee employee3= new Employee("Luisa",32, "Chief Analitics Officer", 36000);
+        Employee employee4= new Employee("Alba", 28,"Chief operating Officer", 30000);
+        Employee employee5= new Employee("Marta", 35, "Financial Control Officer", 50000);
+        Employee employee6=new Employee("Alberto", 29, "Chief Technology Officer", 55000);
+        Employee employee7= new Employee("Ismael", 27,"Community Manager",28000 );
+        Employee employee8= new Employee ("Andres", 36, "Marketing Manager", 40000);
+        Employee employee9= new Employee("Mariela", 34,"Business Development Manager", 55000);
+        Employee employee10= new Employee("Augusto", 31, "Corporate Communications Manager", 32000);
+
 
     }
 
