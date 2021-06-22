@@ -22,14 +22,11 @@ public class Main {
 
     public static void main(String[] args) {
         Employee employee1=new Employee("Miguel",30,"CEO", 500000);
+
     }
 
-        public void printEmployee() {
-            System.out.println("Name:" + name);
-            System.out.println("Age:" + age);
-            System.out.println("Designation:" + designation);
-            System.out.println("Salary:" + salary);
+
         }
 
-    }
-    }
+    
+
